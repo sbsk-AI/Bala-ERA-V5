@@ -1,0 +1,15 @@
+{
+  "submission": "ERA V5 Training Data Execution System",
+  "status": "initial_submission",
+  "requirements": {
+    "tokenizer_integrity": "PENDING",
+    "evaluation_firewall": "PENDING",
+    "packing_correctness": "PENDING",
+    "mixture_compliance": "PENDING",
+    "opus_audit_trail": "PENDING",
+    "crash_recovery": "PENDING",
+    "replay": "PENDING",
+    "learning_trace": "PENDING",
+    "throughput": "PENDING"
+  }
+}

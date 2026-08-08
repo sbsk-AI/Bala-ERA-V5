@@ -1,0 +1,8 @@
+{
+  "batches": 50,
+  "tokens_consumed": 1357,
+  "useful_loss_bearing_tokens": 1231,
+  "elapsed_seconds": 0.001,
+  "useful_loss_bearing_tokens_per_second": 1231000.0,
+  "packing_utilization": 0.848125
+}

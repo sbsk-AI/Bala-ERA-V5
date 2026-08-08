@@ -1,0 +1,9 @@
+{
+  "parent_checkpoint": "checkpoint-0002.json",
+  "fork_offset": 2,
+  "fork_id": "branch-A",
+  "state": {
+    "w": 0.002282618087206182,
+    "b": 1.821939992708894e-06
+  }
+}

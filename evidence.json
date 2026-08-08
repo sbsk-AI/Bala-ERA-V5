@@ -1,0 +1,38 @@
+{
+  "tokenizer_integrity": {
+    "result": "PASS",
+    "evidence": "manifests/tokenizer.json + tokenizer.sha256"
+  },
+  "evaluation_firewall": {
+    "result": "PASS",
+    "evidence": "eval shard excluded from packer"
+  },
+  "packing_correctness": {
+    "result": "PASS",
+    "evidence": "manifests/batches.json"
+  },
+  "mixture_compliance": {
+    "result": "PASS",
+    "evidence": "manifests/mixture_actual.json"
+  },
+  "opus_audit_trail": {
+    "result": "PASS",
+    "evidence": "manifests/opus_decisions.json"
+  },
+  "crash_recovery": {
+    "result": "PASS",
+    "evidence": "checkpoints/checkpoint-0002.json; ledgers/consumption.json"
+  },
+  "replay": {
+    "result": "PASS",
+    "evidence": "manifests/replay.json"
+  },
+  "learning_trace": {
+    "result": "PASS",
+    "evidence": "ledgers/learning.json"
+  },
+  "throughput": {
+    "result": "PASS",
+    "evidence": "performance.json"
+  }
+}

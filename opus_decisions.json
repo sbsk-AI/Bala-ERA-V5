@@ -1,0 +1,716 @@
+[
+  {
+    "candidate_id": "tr-013",
+    "lane": "dialogue",
+    "quality": 0.3,
+    "decision": "defer",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "ev-001",
+    "lane": "general_knowledge",
+    "quality": 0.99,
+    "decision": "reject",
+    "reason": "evaluation_firewall"
+  },
+  {
+    "candidate_id": "tr-002",
+    "lane": "programming",
+    "quality": 0.95,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-007",
+    "lane": "india_structured",
+    "quality": 0.94,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-006",
+    "lane": "long_context",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-003",
+    "lane": "indic",
+    "quality": 0.4,
+    "decision": "protected_floor_override",
+    "reason": "protected_floor"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-008",
+    "lane": "books",
+    "quality": 0.86,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-007",
+    "lane": "india_structured",
+    "quality": 0.94,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-010",
+    "lane": "programming",
+    "quality": 0.93,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-007",
+    "lane": "india_structured",
+    "quality": 0.94,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-006",
+    "lane": "long_context",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-005",
+    "lane": "agentic",
+    "quality": 0.83,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-004",
+    "lane": "reasoning",
+    "quality": 0.91,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-011",
+    "lane": "reasoning",
+    "quality": 0.87,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-006",
+    "lane": "long_context",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-005",
+    "lane": "agentic",
+    "quality": 0.83,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-005",
+    "lane": "agentic",
+    "quality": 0.83,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-006",
+    "lane": "long_context",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-005",
+    "lane": "agentic",
+    "quality": 0.83,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-002",
+    "lane": "programming",
+    "quality": 0.95,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-008",
+    "lane": "books",
+    "quality": 0.86,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-006",
+    "lane": "long_context",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-010",
+    "lane": "programming",
+    "quality": 0.93,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-004",
+    "lane": "reasoning",
+    "quality": 0.91,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-008",
+    "lane": "books",
+    "quality": 0.86,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-005",
+    "lane": "agentic",
+    "quality": 0.83,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-011",
+    "lane": "reasoning",
+    "quality": 0.87,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-002",
+    "lane": "programming",
+    "quality": 0.95,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-004",
+    "lane": "reasoning",
+    "quality": 0.91,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-011",
+    "lane": "reasoning",
+    "quality": 0.87,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-010",
+    "lane": "programming",
+    "quality": 0.93,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-008",
+    "lane": "books",
+    "quality": 0.86,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-002",
+    "lane": "programming",
+    "quality": 0.95,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-010",
+    "lane": "programming",
+    "quality": 0.93,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-009",
+    "lane": "dialogue",
+    "quality": 0.89,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-007",
+    "lane": "india_structured",
+    "quality": 0.94,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-002",
+    "lane": "programming",
+    "quality": 0.95,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-010",
+    "lane": "programming",
+    "quality": 0.93,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-006",
+    "lane": "long_context",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-006",
+    "lane": "long_context",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-002",
+    "lane": "programming",
+    "quality": 0.95,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-004",
+    "lane": "reasoning",
+    "quality": 0.91,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-010",
+    "lane": "programming",
+    "quality": 0.93,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-002",
+    "lane": "programming",
+    "quality": 0.95,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-008",
+    "lane": "books",
+    "quality": 0.86,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-011",
+    "lane": "reasoning",
+    "quality": 0.87,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-007",
+    "lane": "india_structured",
+    "quality": 0.94,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-010",
+    "lane": "programming",
+    "quality": 0.93,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-005",
+    "lane": "agentic",
+    "quality": 0.83,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-007",
+    "lane": "india_structured",
+    "quality": 0.94,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-002",
+    "lane": "programming",
+    "quality": 0.95,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-009",
+    "lane": "dialogue",
+    "quality": 0.89,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-005",
+    "lane": "agentic",
+    "quality": 0.83,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-004",
+    "lane": "reasoning",
+    "quality": 0.91,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-010",
+    "lane": "programming",
+    "quality": 0.93,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-011",
+    "lane": "reasoning",
+    "quality": 0.87,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-002",
+    "lane": "programming",
+    "quality": 0.95,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-012",
+    "lane": "indic",
+    "quality": 0.9,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-005",
+    "lane": "agentic",
+    "quality": 0.83,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-010",
+    "lane": "programming",
+    "quality": 0.93,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-004",
+    "lane": "reasoning",
+    "quality": 0.91,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-001",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-011",
+    "lane": "reasoning",
+    "quality": 0.87,
+    "decision": "accept",
+    "reason": "quality_gate"
+  },
+  {
+    "candidate_id": "tr-007",
+    "lane": "india_structured",
+    "quality": 0.94,
+    "decision": "accept",
+    "reason": "quality_gate"
+  }
+]

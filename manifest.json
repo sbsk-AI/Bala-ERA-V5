@@ -1,0 +1,18 @@
+[
+  {
+    "shard": "train-000.jsonl",
+    "split": "train",
+    "records": 13,
+    "sha256": "3ccbfd29415bd1e94059f522189bfdeee497d8ac6badd98f25d34bafff20ccdf",
+    "tokenizer_hash": "150420393d26de7b25ceca6bd1fd437501bd853cfa72e4b87499dbe225b13370",
+    "immutable": true
+  },
+  {
+    "shard": "eval-000.jsonl",
+    "split": "eval",
+    "records": 1,
+    "sha256": "3229ab5761b7a2dfdd160c6bae145907dfeb0507b7d84845fa97ea9e1bb0065c",
+    "tokenizer_hash": "150420393d26de7b25ceca6bd1fd437501bd853cfa72e4b87499dbe225b13370",
+    "immutable": true
+  }
+]

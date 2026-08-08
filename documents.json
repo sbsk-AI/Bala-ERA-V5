@@ -1,0 +1,100 @@
+[
+  {
+    "id": "tr-001",
+    "split": "train",
+    "lane": "general_knowledge",
+    "quality": 0.92,
+    "text": "India is a constitutional democracy with a federal structure."
+  },
+  {
+    "id": "tr-002",
+    "split": "train",
+    "lane": "programming",
+    "quality": 0.95,
+    "text": "Python functions encapsulate reusable computation and return values."
+  },
+  {
+    "id": "tr-003",
+    "split": "train",
+    "lane": "indic",
+    "quality": 0.4,
+    "text": "India has many languages and a rich multilingual literary tradition."
+  },
+  {
+    "id": "tr-004",
+    "split": "train",
+    "lane": "reasoning",
+    "quality": 0.91,
+    "text": "A valid proof connects assumptions to a conclusion through justified steps."
+  },
+  {
+    "id": "tr-005",
+    "split": "train",
+    "lane": "agentic",
+    "quality": 0.83,
+    "text": "An agent observes state selects a tool acts and checks the result."
+  },
+  {
+    "id": "tr-006",
+    "split": "train",
+    "lane": "long_context",
+    "quality": 0.9,
+    "text": "Long documents require preserving relationships across distant sections and references."
+  },
+  {
+    "id": "tr-007",
+    "split": "train",
+    "lane": "india_structured",
+    "quality": 0.94,
+    "text": "The Reserve Bank of India publishes monetary policy information and reports."
+  },
+  {
+    "id": "tr-008",
+    "split": "train",
+    "lane": "books",
+    "quality": 0.86,
+    "text": "Long form literature develops coherence narrative structure and vocabulary."
+  },
+  {
+    "id": "tr-009",
+    "split": "train",
+    "lane": "dialogue",
+    "quality": 0.89,
+    "text": "A useful dialogue response should address the question clearly and directly."
+  },
+  {
+    "id": "tr-010",
+    "split": "train",
+    "lane": "programming",
+    "quality": 0.93,
+    "text": "A deterministic pipeline produces the same output when inputs and configuration are fixed."
+  },
+  {
+    "id": "tr-011",
+    "split": "train",
+    "lane": "reasoning",
+    "quality": 0.87,
+    "text": "Reproducibility requires recording inputs transformations seeds and output hashes."
+  },
+  {
+    "id": "tr-012",
+    "split": "train",
+    "lane": "indic",
+    "quality": 0.9,
+    "text": "Indic language coverage should be protected so abundant English data cannot crowd it out."
+  },
+  {
+    "id": "tr-013",
+    "split": "train",
+    "lane": "dialogue",
+    "quality": 0.3,
+    "text": "Low quality candidate used to exercise the OPUS deferral path."
+  },
+  {
+    "id": "ev-001",
+    "split": "eval",
+    "lane": "general_knowledge",
+    "quality": 0.99,
+    "text": "This evaluation-only record must never enter a training loss batch."
+  }
+]

@@ -1,0 +1,1 @@
+{"id": "ev-001", "lane": "general_knowledge", "quality": 0.99, "split": "eval", "text": "This evaluation-only record must never enter a training loss batch.", "token_count": 11, "token_ids": [115, 116, 117, 118, 119, 120, 6, 121, 122, 123, 12]}

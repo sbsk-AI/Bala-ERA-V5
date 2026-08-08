@@ -1,0 +1,14 @@
+[
+  {
+    "batch_id": "b0000",
+    "original_hash": "36669d629194372f7f7b457560a3b93f8961ab7508f669878392c0f69018d00d",
+    "replay_hash": "36669d629194372f7f7b457560a3b93f8961ab7508f669878392c0f69018d00d",
+    "match": true
+  },
+  {
+    "batch_id": "b0001",
+    "original_hash": "6762cb7778866a9dbefbd67a8c4d8c953403a7b8a3af30121cd72198891459f5",
+    "replay_hash": "6762cb7778866a9dbefbd67a8c4d8c953403a7b8a3af30121cd72198891459f5",
+    "match": true
+  }
+]

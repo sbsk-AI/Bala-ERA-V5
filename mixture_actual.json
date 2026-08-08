@@ -1,0 +1,36 @@
+{
+  "planned_percent": {
+    "general_knowledge": 23,
+    "programming": 18,
+    "indic": 18,
+    "reasoning": 12,
+    "agentic": 8,
+    "long_context": 7,
+    "india_structured": 7,
+    "books": 5,
+    "dialogue": 2
+  },
+  "actual_percent": {
+    "general_knowledge": 23.0,
+    "programming": 18.0,
+    "indic": 18.0,
+    "reasoning": 12.0,
+    "agentic": 8.0,
+    "long_context": 7.0,
+    "india_structured": 7.0,
+    "books": 5.0,
+    "dialogue": 2.0
+  },
+  "actual_counts": {
+    "general_knowledge": 23,
+    "programming": 18,
+    "indic": 18,
+    "reasoning": 12,
+    "agentic": 8,
+    "long_context": 7,
+    "india_structured": 7,
+    "books": 5,
+    "dialogue": 2
+  },
+  "compliant": true
+}

@@ -1,0 +1,27 @@
+ERA V5 Training Data Execution System
+execution started
+tokenizer frozen hash=150420393d26de7b25ceca6bd1fd437501bd853cfa72e4b87499dbe225b13370
+shards created
+manifests validated
+evaluation data blocked
+mixture compiled
+OPUS decisions recorded
+batches packed
+checkpoint saved
+crash simulated
+run resumed from offset=2
+historical stream replayed
+branch forked
+audit completed
+performance measured
+[PASS] tokenizer_integrity
+[PASS] evaluation_firewall
+[PASS] packing_correctness
+[PASS] mixture_compliance
+[PASS] opus_audit_trail
+[PASS] crash_recovery
+[PASS] replay
+[PASS] learning_trace
+[PASS] throughput
+[PASS] resume_next_batch_matched
+[PASS] replay_hash_matched

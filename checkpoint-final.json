@@ -1,0 +1,9 @@
+{
+  "offset": 50,
+  "state": {
+    "w": 0.02232526896764236,
+    "b": 7.034598297828346e-05
+  },
+  "consumption_ledger_offset": 50,
+  "learning_ledger_offset": 50
+}

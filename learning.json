@@ -1,0 +1,302 @@
+[
+  {
+    "ledger_offset": 0,
+    "batch_id": "b0000",
+    "loss": 0.001000082540953592,
+    "source_batch_hash": "36669d629194372f7f7b457560a3b93f8961ab7508f669878392c0f69018d00d"
+  },
+  {
+    "ledger_offset": 1,
+    "batch_id": "b0001",
+    "loss": 0.001056697728407293,
+    "source_batch_hash": "6762cb7778866a9dbefbd67a8c4d8c953403a7b8a3af30121cd72198891459f5"
+  },
+  {
+    "ledger_offset": 2,
+    "batch_id": "b0002",
+    "loss": 0.00012196121990913513,
+    "source_batch_hash": "4bbb6c5c9543a177355b2ca29775fe3969c6c4b5fe24ddc52ae13ea383eea962"
+  },
+  {
+    "ledger_offset": 3,
+    "batch_id": "b0003",
+    "loss": 0.00021135596185390217,
+    "source_batch_hash": "af5fbaa6a2658e83e57b5a1dfb98a92953143ecc2fc31134ca0989c2cee71abd"
+  },
+  {
+    "ledger_offset": 4,
+    "batch_id": "b0004",
+    "loss": 0.0012085626523340393,
+    "source_batch_hash": "5afd0a7d20584c22c4464411e08d16f10ab3ea76d073c80d0e035f9d9ad29aa2"
+  },
+  {
+    "ledger_offset": 5,
+    "batch_id": "b0005",
+    "loss": 7.587968763701517e-05,
+    "source_batch_hash": "be56e672658e1a55f1a2eba15009d3803a01430ca9d6a1fcd96d2e95ebf42a7b"
+  },
+  {
+    "ledger_offset": 6,
+    "batch_id": "b0006",
+    "loss": 0.00040585144126232815,
+    "source_batch_hash": "27858a2e324b68c0fbf8bf752ff9344ef1ab45ae60c918c99c858a5e3f18f5f8"
+  },
+  {
+    "ledger_offset": 7,
+    "batch_id": "b0007",
+    "loss": 0.0018200649319698528,
+    "source_batch_hash": "90748a6a96c23f98437bf9af4f9c3362d22e35018a51968bf1cb7d918961ea98"
+  },
+  {
+    "ledger_offset": 8,
+    "batch_id": "b0008",
+    "loss": 0.0003163362354038017,
+    "source_batch_hash": "b117a3f47b30f342b8dc25cfee41464a9cc41ada73ab90b3717c9528835d15c5"
+  },
+  {
+    "ledger_offset": 9,
+    "batch_id": "b0009",
+    "loss": 7.342570628601223e-05,
+    "source_batch_hash": "ce457fdadfc80af4d841f6d0efa9d1625662f6bccc758b5dbbcb983aef6605cc"
+  },
+  {
+    "ledger_offset": 10,
+    "batch_id": "b0010",
+    "loss": 0.0017041936552628283,
+    "source_batch_hash": "bfb598841ecad7444695f33dd70389ebd581c2dcf10f135798db22dd602cd25d"
+  },
+  {
+    "ledger_offset": 11,
+    "batch_id": "b0011",
+    "loss": 0.0004499268571641172,
+    "source_batch_hash": "7e5fb77336159e2cfec2dddc6d026effae55026a418947b9216505cb2a2ac36d"
+  },
+  {
+    "ledger_offset": 12,
+    "batch_id": "b0012",
+    "loss": 0.016667607262812714,
+    "source_batch_hash": "0e7595ae9f6abfb91f37e5a28c20385edc6d256af2000c970c136450d4c0d8c9"
+  },
+  {
+    "ledger_offset": 13,
+    "batch_id": "b0013",
+    "loss": 0.01600757001520533,
+    "source_batch_hash": "4042341ee44de62f64728036b8cc94088d3654761e40392f2aaf1a8c0c0e7e03"
+  },
+  {
+    "ledger_offset": 14,
+    "batch_id": "b0014",
+    "loss": 0.0007909639269399569,
+    "source_batch_hash": "525b251e406dcaba7b89fcc58903d21b836a57d601b74fb39b6c3a4f55980625"
+  },
+  {
+    "ledger_offset": 15,
+    "batch_id": "b0015",
+    "loss": 5.156279174965212e-06,
+    "source_batch_hash": "b5ac309c62b29aa9a4cca121974545805a5a029f6eb350aa24dafd95baceeaf5"
+  },
+  {
+    "ledger_offset": 16,
+    "batch_id": "b0016",
+    "loss": 0.0001231038373996747,
+    "source_batch_hash": "9d8aa432539e85b70e8d11fd4e57f5ca57793e63b2e8527cd8dd6d08d8862867"
+  },
+  {
+    "ledger_offset": 17,
+    "batch_id": "b0017",
+    "loss": 9.045071472760386e-05,
+    "source_batch_hash": "8774a43b0b839f413ba63ce5ded8d0727ce3c18718c21be92d751b89b9d2cf5d"
+  },
+  {
+    "ledger_offset": 18,
+    "batch_id": "b0018",
+    "loss": 1.8516776617135432e-05,
+    "source_batch_hash": "53560c7f83ed512bad00df5dffd2288b572d0ed2092b9cc18460d7c8d743f983"
+  },
+  {
+    "ledger_offset": 19,
+    "batch_id": "b0019",
+    "loss": 0.0006607101909341085,
+    "source_batch_hash": "a1c1fef7c06d23a32c1a9e0f60392bee04e243c27672b9315181f6407c3267ba"
+  },
+  {
+    "ledger_offset": 20,
+    "batch_id": "b0020",
+    "loss": 5.7219923257810057e-05,
+    "source_batch_hash": "b57920cdcbd981b12c32a823531307aa24e44f39deeacd8fdeaa20fa15048d33"
+  },
+  {
+    "ledger_offset": 21,
+    "batch_id": "b0021",
+    "loss": 4.690146187827608e-06,
+    "source_batch_hash": "71e08bd98760090370db514a5eb1b3fc3d0b4943fac6faee671d8a8b7435e679"
+  },
+  {
+    "ledger_offset": 22,
+    "batch_id": "b0022",
+    "loss": 5.474675032753691e-06,
+    "source_batch_hash": "7400956fb4a31b9c49db722fafdc0475fc37e20728b8d1b5b7f6cd4f4f6feb0a"
+  },
+  {
+    "ledger_offset": 23,
+    "batch_id": "b0023",
+    "loss": 2.4408680712315688e-06,
+    "source_batch_hash": "88a78486a590f467c5dcb9dbcfc7598d53aa70a956c7da031153f3000b492b9b"
+  },
+  {
+    "ledger_offset": 24,
+    "batch_id": "b0024",
+    "loss": 1.2321756285018629e-05,
+    "source_batch_hash": "68a47d7a60ba8821be45180e2e7f40d5d74c0f7e0c892c58beba3c64ed47efca"
+  },
+  {
+    "ledger_offset": 25,
+    "batch_id": "b0025",
+    "loss": 0.0006243880917768573,
+    "source_batch_hash": "20bae8b8aae747e562b0014b6470a874ef422ef263f36e47e8010ca5560563fe"
+  },
+  {
+    "ledger_offset": 26,
+    "batch_id": "b0026",
+    "loss": 0.006093917012425739,
+    "source_batch_hash": "5d3620fdd6c8aedee60994ee74ba166a1263695725f7a2546dca3799c0dcb83e"
+  },
+  {
+    "ledger_offset": 27,
+    "batch_id": "b0027",
+    "loss": 9.313086925556043e-05,
+    "source_batch_hash": "3a043013619e9578671669c10e9aa4f1deda1143ba4dbeb10b996e1ca5629fc9"
+  },
+  {
+    "ledger_offset": 28,
+    "batch_id": "b0028",
+    "loss": 7.158490856541271e-06,
+    "source_batch_hash": "172620f3531e96bcb55c8cfa4924c752984651dbe4c69103c6625025fc6883d9"
+  },
+  {
+    "ledger_offset": 29,
+    "batch_id": "b0029",
+    "loss": 3.181571485759988e-05,
+    "source_batch_hash": "4b97f8a0d6665b3b2965938d87caf741d490d667953e273d1ac53cca351ca30b"
+  },
+  {
+    "ledger_offset": 30,
+    "batch_id": "b0030",
+    "loss": 0.0004809186385805207,
+    "source_batch_hash": "5078804fdea4c0ebf83027b6be72839b8a920fc78b8735b0e4bd394b6337b434"
+  },
+  {
+    "ledger_offset": 31,
+    "batch_id": "b0031",
+    "loss": 4.435429130397216e-05,
+    "source_batch_hash": "6dd16b07698c3177213099189edfb2b558afbf73dad1a32c079587088f2e016b"
+  },
+  {
+    "ledger_offset": 32,
+    "batch_id": "b0032",
+    "loss": 0.0005730744434431562,
+    "source_batch_hash": "949df2d40072d5aba124e1174ff6874c272e93a5aa185db186acfc9bbd381e2c"
+  },
+  {
+    "ledger_offset": 33,
+    "batch_id": "b0033",
+    "loss": 0.0003150410585851938,
+    "source_batch_hash": "3c3895380b698fb9a81ef9006451379f21837533882cd0868a5b01c4b0a6442a"
+  },
+  {
+    "ledger_offset": 34,
+    "batch_id": "b0034",
+    "loss": 0.0018984761682421963,
+    "source_batch_hash": "097c92bc01cf9e6b539ff7fafb6e80a874448d23c1d35281f2f9cefd3853b6ba"
+  },
+  {
+    "ledger_offset": 35,
+    "batch_id": "b0035",
+    "loss": 5.397480959907154e-05,
+    "source_batch_hash": "4bf21f0698a28ad3b0f5bb0af48abc3d08a54cbec1bc5d7eec3ae912591d4cce"
+  },
+  {
+    "ledger_offset": 36,
+    "batch_id": "b0036",
+    "loss": 0.005483649332185462,
+    "source_batch_hash": "6da5bec49f9e1727eb3b004460d1f56dfcecf7df5bad49a956bb77ded8ff9263"
+  },
+  {
+    "ledger_offset": 37,
+    "batch_id": "b0037",
+    "loss": 3.853270230030863e-05,
+    "source_batch_hash": "20b27c405c6051cc67ac5274febfb16bff03c311face3d9789df693254148f84"
+  },
+  {
+    "ledger_offset": 38,
+    "batch_id": "b0038",
+    "loss": 5.869741724732098e-05,
+    "source_batch_hash": "0a1676e468b7ed083f48e5c34fbcdf0167d65f67e8db94ad2ed45346d9c4e1db"
+  },
+  {
+    "ledger_offset": 39,
+    "batch_id": "b0039",
+    "loss": 7.249181409610766e-07,
+    "source_batch_hash": "b8c64bb723d58558aeec80b23c41c4ed10aa9576d3e5cc418879b011b77708d3"
+  },
+  {
+    "ledger_offset": 40,
+    "batch_id": "b0040",
+    "loss": 0.0007556754237314114,
+    "source_batch_hash": "5024ebb9cc9f77798f152a630baee4d83f8b671df9dde0750b871634f9edad31"
+  },
+  {
+    "ledger_offset": 41,
+    "batch_id": "b0041",
+    "loss": 0.0003157557569832907,
+    "source_batch_hash": "c513f6d12276e47ce9ad7bd22ccda2883ed30bc79f52d82ef2606cb36d246332"
+  },
+  {
+    "ledger_offset": 42,
+    "batch_id": "b0042",
+    "loss": 0.005178221337158917,
+    "source_batch_hash": "8b4ecc00dfd39ddfe1afe768d6f881f2b33a737a098096d77e981ec01e277b43"
+  },
+  {
+    "ledger_offset": 43,
+    "batch_id": "b0043",
+    "loss": 5.736029138198177e-06,
+    "source_batch_hash": "a69b9031ed6759ae2d0773767fc9123e587023409ce79bd4df94aba2e8e895d3"
+  },
+  {
+    "ledger_offset": 44,
+    "batch_id": "b0044",
+    "loss": 1.8253778471348552e-07,
+    "source_batch_hash": "688dbfe2fe9565e1ef839b661ec784c4f58e610a3876dd04c0a92fa75227e462"
+  },
+  {
+    "ledger_offset": 45,
+    "batch_id": "b0045",
+    "loss": 3.927931837226679e-06,
+    "source_batch_hash": "4e3ac9ec81035b955a98b5f17aaffee2f90b22ca191ba7858ccbb53ed57144d1"
+  },
+  {
+    "ledger_offset": 46,
+    "batch_id": "b0046",
+    "loss": 4.176197948548987e-05,
+    "source_batch_hash": "c35daa0f8403cfd5f5f328e6945f0026e6a9cf1cbca3b094b4a2877af32c966b"
+  },
+  {
+    "ledger_offset": 47,
+    "batch_id": "b0047",
+    "loss": 1.370476933032755e-05,
+    "source_batch_hash": "7c0d75d23ab0a0f772e7f2a455f5a694dd87a7ac37711d732b4f686e790444c8"
+  },
+  {
+    "ledger_offset": 48,
+    "batch_id": "b0048",
+    "loss": 0.0015195389923124724,
+    "source_batch_hash": "1db742f43e73aaa905c64c76290415ca4684f90f2d4550b95ac9bae004ee670c"
+  },
+  {
+    "ledger_offset": 49,
+    "batch_id": "b0049",
+    "loss": 1.554438019965629e-05,
+    "source_batch_hash": "f28ac1dc89eab429e30d1adb9c951657cb25be9ff30fa30f05dd0415f7bbe7b3"
+  }
+]
